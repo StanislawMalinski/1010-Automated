@@ -1,3 +1,4 @@
 1. Resolved. Forgot clearing rows and columns when new element completes them at once. 
 2. Adding transposition when ther are 2 blocks of the same shape.
 3. Getting rid of rotation of the blocks whre its doesn't metter like cubes or 180 of lines
+4. Adding rule for getting random blocks that will fit in to the board.
